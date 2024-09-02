@@ -1,0 +1,3 @@
+Fruit: apple, Color: mengo
+Fruit: pinaple, Color: yellow
+Fruit: apple, Color: mengo
